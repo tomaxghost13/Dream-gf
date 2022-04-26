@@ -1,0 +1,146 @@
+print("DISCLAIMER: IF ANY OF THE FOLLOWING ANSWER IS A N, WE CANT BE TOGETHER")
+print("THERE ARE 8 QUESTIONS IN TOTAL")
+
+
+I = 22
+G = int(input("1) insert your girl's age here : "))
+
+if G > I:
+    print('go next')
+    exit()
+
+if G < 16:
+    print('go jail ticket')
+    exit()
+
+
+#born 2003
+if G == I-4:
+        print('nice la')
+elif G == I-5:
+        print('nice la')
+
+elif G == I-7:
+        print('nice la')
+elif G == I-8:
+        print('nice la')
+
+
+
+#born 2015
+elif G == I-16:
+        print('nice la')
+elif G == I-17:
+    print('nice la')
+elif G == I-19:
+    print('nice la')
+elif G == I-20:
+    print('nice la')
+
+
+
+#born 2027
+elif G == I-28:
+        print('nice la')
+elif G == I-29:
+    print('nice la')
+elif G == I-31:
+    print('nice la')
+elif G == I-32:
+    print('nice la')
+
+
+
+#born 2039
+elif G == I-40:
+        print('nice la')
+elif G == I-41:
+    print('nice la')
+elif G == I-43:
+    print('nice la')
+elif G == I-44:
+    print('nice la')
+
+
+
+#born 2051
+elif G == I-52:
+        print('nice la')
+elif G == I-53:
+    print('nice la')
+elif G == I-55:
+    print('nice la')
+elif G == I-56:
+    print('nice la')
+
+
+#born 2063
+elif G == I-64:
+        print('nice la')
+elif G == I-65:
+    print('nice la')
+elif G == I-67:
+    print('nice la')
+elif G == I-68:
+    print('nice la')
+
+else:
+    print("i won't date you :)")
+    exit()
+
+
+
+
+
+
+
+Question = input("2) Are you a Virgin? y/n: ")
+if Question == ("y"):
+	print ("nice")
+else:
+    exit()
+
+
+Question = input("3) Do you like me? y/n: ")
+if Question == ("y"):
+	print ("thats a date <3")
+else :
+    exit()
+
+
+Question = input("4) Are you caring? y/n: ")
+if Question == ("y"):
+	print ("nice")
+else:
+    exit()
+
+
+
+Question = input("5) Are you kind? y/n: ")
+if Question == ("y"):
+	print ("nice")
+else:
+    exit()
+
+
+
+Question = input("6) date to marry? y/n: ")
+if Question == ("y"):
+	print ("thats good thats good :)")
+else:
+    exit()
+
+
+Question = input("7) Are you willing to have intercourse with me only after we get married? y/n: ")
+if Question == ("y"):
+	print ("thats very good")
+else:
+    exit()
+
+
+
+Question = input("8) Do you want to live with my mom? y/n: ")
+if Question == ("y"):
+	print ("insta: ......")
+else:
+    exit()
