@@ -91,6 +91,13 @@ else:
 
 
 
+Question = input("2) Are you chinese? y/n: ")
+if Question == ("y"):
+	print ("nice")
+else:
+    exit()
+
+
 
 
 
